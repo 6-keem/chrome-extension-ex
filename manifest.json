@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Hello",
+    "action": {
+        "default_title": "Hello",
+        "default_popup": "index.html",
+        "default_icon": "hello_extensions.png"
+    }
+}
